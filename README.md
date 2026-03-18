@@ -54,18 +54,6 @@ Final Output Sheet (Form Layout)
 
 ---
 
-# 📁 Project Structure
-
-```text
-form-builder-automation
-│
-├── src
-│   └── formBuilderAutomation.js
-│
-├── README.md
-└── appsscript.json
-```
-
 ---
 
 # ⚙️ Configuration
